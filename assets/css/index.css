@@ -303,33 +303,34 @@ body {
   margin-bottom: 5px;
 }
 
-.about-sum {
+.research_form {
   padding: 50px 30px;
+  background-color: rgb(58, 58, 58);
 }
 
-.about-sum__image-wrapper {
+.research_form__image-wrapper {
   width: 100%;
   display: flex;
   justify-content: center;
 }
 
-.about-sum__image-wrapper {
+.research_form__image-wrapper {
   margin-bottom: 30px;
 }
 
-.about-sum__image {
+.research_form__image {
   width: 60%;
 }
 
-.about-sum__title-wrapper {
+.research_form__title-wrapper {
   margin-bottom: 40px;
 }
 
-.about-sum__text-group {
+.research_form__text-group {
   margin-bottom: 20px;
 }
 
-.about-sum__title {
+.research_form__title {
   color: white;
   font-weight: bold;
   font-size: 20px;
@@ -338,27 +339,27 @@ body {
   margin-bottom: 10px;
 }
 
-.about-sum__description {
+.research_form__description {
   color: white;
   font-size: 12px;
   font-weight: lighter;
   margin: 0;
 }
 
-.about-sum__description--textAlign-center {
+.research_form__description--textAlign-center {
   text-align: center;
 }
 
-.about-sum__description--fontWeight-bold {
+.research_form__description--fontWeight-bold {
   font-weight: bold;
 }
 
-.about-sum__button-wrapper {
+.research_form__button-wrapper {
   display: flex;
   justify-content: center;
 }
 
-.about-sum__button {
+.research_form__button {
   text-decoration: none;
   background: none;
   border: 1px solid white;
